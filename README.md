@@ -1,2 +1,2 @@
-# nicoygiuli
-l.compu2
+# NicoYGiuli
+Lab. Compu 2
