@@ -1,0 +1,158 @@
+#TituloPrincipal{
+    border: solid #756862 4px;
+    background-color: #98857f;
+    text-align: center;
+}
+
+
+
+
+#CuerpoPagina{
+    background: #142e3a;
+    font-family: 'Gugi', cursive;
+}
+
+
+
+
+
+#Boton{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+
+
+
+#Logo{
+    position: absolute;
+    top: 490px;
+    left: 1315px;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+#Barrios{
+    border-radius: 25px;
+    background-color: #98926c;
+    width: 20px;
+    padding: 50px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+
+
+
+#NuevaCordoba{
+    text-align: center;
+    border-radius: 20px;
+    background-color: #98926c;
+    width: 1000px;
+    height: 40px;
+    transform: translate(150px);
+}
+#NuevaCordoba a{
+    color: black;
+}
+#NuevaCordoba a:hover{
+    color: black;
+}
+
+
+
+
+
+#Guemes{
+    border-radius: 20px;
+    background-color: #98926c;
+    text-align: center;
+    width: 1000px;
+    height: 40px;
+    transform: translate(150px);
+}
+#Guemes a{
+    color: black;
+}
+#Guemes a:hover{
+    color: black;
+}
+
+
+
+
+#ChateauCarreras{
+    border-radius: 20px;
+    background-color: #98926c;
+    text-align: center;
+    width: 1000px;
+    height: 40px;
+    transform: translate(150px);
+}
+#ChateauCarreras a{
+    color: black;
+}
+#ChateauCarreras a:hover{
+    color: black;
+}
+
+
+
+
+#Bares{
+    border-radius: 50px;
+    font-size: large;
+    background-color: #98926c;
+    padding: 10px;
+    text-align: center;
+}
+#Bares a{
+    color: black;
+}
+#Bares a:hover{
+    color: black;
+}
+
+
+
+
+
+#Boliches{
+    font-size: large;
+    transform: translateY(40px);
+    top: 50px;
+    bottom: 50px;
+    border-radius: 50px;
+    background-color: #98926c;
+    padding: 10px;
+    text-align: center;
+}
+#Boliches a{
+    color: black;
+}
+#Boliches a:hover{
+    color: black;
+}
+
+
+
+
+
+#Restaurantes{
+    font-size: large;
+    transform: translateY(20px);
+    border-radius: 50px;
+    background-color: #98926c;
+    padding: 10px;
+    text-align: center;
+}
+#Restaurantes a{
+    color: black;
+}
+#Restaurantes a:hover{
+    color: black;
+}

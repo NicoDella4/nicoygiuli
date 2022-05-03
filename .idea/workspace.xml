@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1SegundaPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1TerceraPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1TerceraPagina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1TerceraPagina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2SegundaPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3SegundaPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/Webstorm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Guemes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/TempleNvaLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Vidon Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/antares-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/casanegra.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/cruz.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/descarga (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/descarga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/fraterno.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/malbec.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/mandinga.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/mcdonalds-logo-bg-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/merloy.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/paris.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/rosario.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sur.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/unknown7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estilosultimo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Webstorm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="28LNBeSxPZByioV6ujmARMksxTS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Stylus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejercicios-HTML/imagenes" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ndell\OneDrive\Escritorio\NicoYGiuli\nicoygiuli\Webstorm\Ejercicios-HTML\imagenes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="" />
+      <created>1650991773191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650991773191</updated>
+      <workItem from="1650991775183" duration="75000" />
+      <workItem from="1650991953688" duration="1473000" />
+      <workItem from="1651017163565" duration="15042000" />
+      <workItem from="1651057595860" duration="1545000" />
+      <workItem from="1651059398205" duration="3851000" />
+      <workItem from="1651068688613" duration="12000" />
+      <workItem from="1651076451571" duration="22000" />
+      <workItem from="1651080741488" duration="605000" />
+      <workItem from="1651269999348" duration="114000" />
+      <workItem from="1651501713397" duration="31369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
