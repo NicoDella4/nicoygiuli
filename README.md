@@ -16,4 +16,4 @@ Lab. Compu 2
 :octocat:
 
 
-Link del proyecto: [Aula virtual de Lab. Compu 2] (https://campusvirtual.ucc.edu.ar/course/view.php?id=6694)
+Link del proyecto: [Pagina web] (file:///C:/Users/ndell/OneDrive/Escritorio/NicoYGiuli/nicoygiuli/Webstorm/index.html)
