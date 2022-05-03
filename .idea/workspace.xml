@@ -5,47 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1SegundaPagina1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1TerceraPagina1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1TerceraPagina2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1TerceraPagina3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2SegundaPagina1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3SegundaPagina1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/Webstorm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Guemes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/TempleNvaLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Vidon Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/antares-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/casanegra.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/cruz.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/descarga (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/descarga.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/fraterno.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/malbec.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/mandinga.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/mcdonalds-logo-bg-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/merloy.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/paris.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/rosario.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/sur.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/unknown7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estilosultimo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Webstorm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Logo.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2TerceraPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2TerceraPagina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2TerceraPagina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3TerceraPagina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3TerceraPagina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3TerceraPagina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Forest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Stoway.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ochre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/2SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilosultimo.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilosultimo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,9 +62,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Stylus" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Ejercicios-HTML/imagenes" />
@@ -124,7 +100,8 @@
       <workItem from="1651076451571" duration="22000" />
       <workItem from="1651080741488" duration="605000" />
       <workItem from="1651269999348" duration="114000" />
-      <workItem from="1651501713397" duration="31369000" />
+      <workItem from="1651501713397" duration="31573000" />
+      <workItem from="1651544383021" duration="5233000" />
     </task>
     <servers />
   </component>
