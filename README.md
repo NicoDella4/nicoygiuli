@@ -1,6 +1,6 @@
-# NicoYGiuli
+<h1 style="color: aliceblue">
 Lab. Compu 2
-
+</h1>
 
 ## Autor
 * Nicolas **Dellamaggiore**
@@ -15,5 +15,9 @@ Lab. Compu 2
 :+1:
 :octocat:
 
+<h1>
+    <a href="http://localhost:63342/Webstorm/index.html?_ijt=rqkkcr389fof1kh6soj43u79mg&_ij_reload=RELOAD_ON_SAVE">
+        Link de la pagina web
+    </a>
+</h1>
 
-Link del proyecto: [Pagina web] (file:///C:/Users/ndell/OneDrive/Escritorio/NicoYGiuli/nicoygiuli/Webstorm/index.html)

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Musica/AstrosCut.mp3.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CarpetaAIgnorar/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +98,8 @@
       <workItem from="1651571729481" duration="164000" />
       <workItem from="1651575557238" duration="265000" />
       <workItem from="1651576476458" duration="4717000" />
-      <workItem from="1651584757111" duration="2857000" />
+      <workItem from="1651584757111" duration="3076000" />
+      <workItem from="1651621529668" duration="2220000" />
     </task>
     <servers />
   </component>
