@@ -16,7 +16,7 @@ Lab. Compu 2
 :octocat:
 
 <h1>
-    <a href="http://localhost:63342/Webstorm/index.html?_ijt=rqkkcr389fof1kh6soj43u79mg&_ij_reload=RELOAD_ON_SAVE">
+    <a href="https://nicodella4.github.io/nicoygiuli/">
         Link de la pagina web
     </a>
 </h1>
