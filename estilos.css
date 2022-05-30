@@ -26,6 +26,7 @@
 #columnas{
     column-count: 2;
     column-gap:10px;
+    align-items: center;
 
 }
 
@@ -33,15 +34,48 @@
 
 
 #Logo{
-    position: absolute;
-    top: 520px;
-    left: 1350px;
-    width: 180px;
-    height: 180px;
-
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 1390px;
+    width: 130px;
+    height: 130px;
 }
 
 
+#mapa{
+    border-radius: 20px;
+    width: 1518px;
+    height: 530px;
+    border: solid #756862 4px;
+    text-align: center;
+}
+
+#PalabraMapa{
+    background-color: #98926c;
+    border-radius: 25px;
+    padding: 7px;
+}
+
+#mapas a{
+    color: black;
+}
+#PalabraMapa a:hover{
+    color: black;
+}
+
+
+#PalabraJuego{
+    background-color: #98926c;
+    border-radius: 25px;
+    padding: 7px;
+}
+
+#Canvas{
+    background-color: #98926c;
+    height: 600px;
+    width: 1520px;
+}
 
 
 #Barrios{
@@ -60,7 +94,7 @@
     text-align: center;
     border-radius: 20px;
     background-color: #98926c;
-    width: 1000px;
+    width: 950px;
     height: 40px;
     padding: 30px;
     transform: translate(-500px);
@@ -81,7 +115,7 @@
     border-radius: 20px;
     background-color: #98926c;
     text-align: center;
-    width: 1000px;
+    width: 950px;
     height: 40px;
     transform: translate(-500px);
     padding: 30px;
@@ -100,7 +134,7 @@
     border-radius: 20px;
     background-color: #98926c;
     text-align: center;
-    width: 1000px;
+    width: 950px;
     padding: 30px;
     height: 40px;
     transform: translate(-500px);

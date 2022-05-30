@@ -5,17 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Juego3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mapa1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mapa2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mapa3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/2SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/Java.js" />
+    </disable_hints>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -96,7 +114,15 @@
       <workItem from="1651584757111" duration="3076000" />
       <workItem from="1651621529668" duration="2623000" />
       <workItem from="1651632127665" duration="101000" />
-      <workItem from="1651662029385" duration="379000" />
+      <workItem from="1651662029385" duration="687000" />
+      <workItem from="1651662733371" duration="3109000" />
+      <workItem from="1651683619382" duration="56000" />
+      <workItem from="1651761106767" duration="337000" />
+      <workItem from="1652193424846" duration="85000" />
+      <workItem from="1652269122096" duration="856000" />
+      <workItem from="1652271091413" duration="599000" />
+      <workItem from="1652471027363" duration="63000" />
+      <workItem from="1653920772867" duration="16927000" />
     </task>
     <servers />
   </component>
