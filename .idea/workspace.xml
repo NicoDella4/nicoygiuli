@@ -9,7 +9,9 @@
       <change beforePath="$PROJECT_DIR$/Java.js" beforeDir="false" afterPath="$PROJECT_DIR$/Java.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Juego1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Juego2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Juego3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +118,13 @@
       <workItem from="1652471027363" duration="63000" />
       <workItem from="1653920772867" duration="17496000" />
       <workItem from="1653941746258" duration="569000" />
-      <workItem from="1653945934254" duration="4763000" />
+      <workItem from="1653945934254" duration="5046000" />
+      <workItem from="1654005806777" duration="3303000" />
+      <workItem from="1654040819468" duration="60000" />
+      <workItem from="1654105988811" duration="59000" />
+      <workItem from="1654106184962" duration="26000" />
+      <workItem from="1654169688965" duration="121000" />
+      <workItem from="1654890071828" duration="1669000" />
     </task>
     <servers />
   </component>

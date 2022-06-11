@@ -1,5 +1,7 @@
-
-function var words = ['VIDON' , 'ANTARES' , 'CASANEGRA' , 'MCDONALD' , 'BURGUERKING', 'ELCLUBDELAMILANESA' , 'MERLOT' ,
-                      'SUR' , 'MALBEC' , 'THEBOTTOM' , 'STOWAY' , 'CUATROCATORCE' , 'STANDARD' , 'TOKIN' , 'PANPLANO' ,
-                      'BARTO' , 'VLACK' , 'LEPARC' , 'FRATERNO' , 'FOREST' , 'MANDINGA' , 'OCHRE' , 'ROSARIO' , 'PARIS'
-                      , 'CRUZESPACIO'];
+function mousemove(event){
+    console.log("pageX: ",event.pageX,
+        "pageY: ", event.pageY,
+        "clientX: ", event.clientX,
+        "clientY: "event.clientY)
+}
+window.addEventListener('mousemove', mousemove)
