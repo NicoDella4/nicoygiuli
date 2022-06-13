@@ -36,10 +36,11 @@
 #Logo{
     display: flex;
     position: relative;
-    top: 10px;
+    top: 470px;
     left: 1390px;
     width: 130px;
     height: 130px;
+    max-width: 100%;
 }
 
 
@@ -80,9 +81,9 @@
 #Canvas{
     height: 370px;
     width: 370px;
-    position: absolute;
+    position: relative;
     border-radius: 200px;
-    left: 38%;
+    left: 37%;
     background-image: url("Images/imagenprincipal.png");
 }
 
@@ -116,8 +117,12 @@
     height: 40px;
     padding: 30px;
     transform: translate(-500px);
-    margin-top: 101.5px;
 }
+
+#NuevaCordoba{
+    margin-top: 102px;
+}
+
 #NuevaCordoba a{
     color: black;
 }

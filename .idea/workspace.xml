@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/Chateaumapa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Guemesmapa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Nuevacbamapa.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1TerceraPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1TerceraPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/2SegundaPagina1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3SegundaPagina1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3SegundaPagina1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java.js" beforeDir="false" afterPath="$PROJECT_DIR$/Java.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juego1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juego2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juego3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Juego3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Juego1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Juego2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Juego3.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -80,6 +87,16 @@
       <recent name="C:\Users\ndell\OneDrive\Escritorio\NicoYGiuli\nicoygiuli\Webstorm\Ejercicios-HTML\imagenes" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Mapa1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Webstorm/Mapa1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Mapa1.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -125,6 +142,8 @@
       <workItem from="1654106184962" duration="26000" />
       <workItem from="1654169688965" duration="121000" />
       <workItem from="1654890071828" duration="1669000" />
+      <workItem from="1654979564150" duration="1409000" />
+      <workItem from="1655078360871" duration="3221000" />
     </task>
     <servers />
   </component>
