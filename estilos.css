@@ -33,15 +33,15 @@
 
 
 
-#Logo{
+#Logo {
     display: flex;
     position: relative;
-    top: 470px;
+    top: 100px;
     left: 1390px;
     width: 130px;
     height: 130px;
-    max-width: 100%;
 }
+
 
 
 #mapa{
@@ -78,13 +78,15 @@
 }
 
 
-#Canvas{
-    height: 370px;
-    width: 370px;
+#myCanvas {
+    height: 340px;
+    width: 340px;
     position: relative;
-    border-radius: 200px;
     left: 37%;
-    background-image: url("Images/imagenprincipal.png");
+    background-image: url("Images/Grafico.png");
+    border-style: solid;
+    border-color: red;
+    border-radius: 200px;
 }
 
 #FondoImagen{
@@ -95,6 +97,9 @@
     margin: 0 auto;
 
 }
+
+
+
 
 
 #Barrios{
