@@ -79,12 +79,15 @@
 
 
 #myCanvas {
-    height: 340px;
-    width: 340px;
+    height: 498px;
+    width: 270px;
     position: relative;
-    left: 37%;
-    background-image: url("Images/Grafico.png");
-    border-radius: 200px;
+    left: 40%;
+    margin: 20px;
+    background-image: url("Images/Canvasdefinitivo.png");
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
 }
 
 #FondoImagen{

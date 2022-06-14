@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="" />
+    <list default="true" id="3e376c08-1d92-4120-a19b-64c760a1cd0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Capa sin título.kmz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Canvasdefinitivo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Recortechateau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Recorteguemes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Recortenva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Grafico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Imagenovo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Logonvo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/imagenprincipal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.js" beforeDir="false" afterPath="$PROJECT_DIR$/Java.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +144,7 @@
       <workItem from="1654979564150" duration="1409000" />
       <workItem from="1655078360871" duration="3738000" />
       <workItem from="1655127359714" duration="3277000" />
+      <workItem from="1655215485221" duration="3250000" />
     </task>
     <servers />
   </component>
