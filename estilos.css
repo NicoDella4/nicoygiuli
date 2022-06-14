@@ -84,8 +84,6 @@
     position: relative;
     left: 37%;
     background-image: url("Images/Grafico.png");
-    border-style: solid;
-    border-color: red;
     border-radius: 200px;
 }
 
