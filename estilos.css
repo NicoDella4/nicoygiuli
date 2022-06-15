@@ -76,18 +76,27 @@
     height: 100%;
     width: 100%;
 }
-
-
-#myCanvas {
-    height: 498px;
-    width: 270px;
-    position: relative;
-    left: 40%;
-    margin: 20px;
+#canvasAdibujar{
     background-image: url("Images/Canvasdefinitivo.png");
-    border-style: solid;
-    border-color: red;
+
+}
+
+#myCanvas{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 274px;
+    height: 498px;
+    position: absolute;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url("Images/Canvasdefinitivo.png");
     border-radius: 10px;
+    border-color: red;
+    border-style: solid;
+
 }
 
 #FondoImagen{
