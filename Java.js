@@ -16,14 +16,14 @@ function dibujar(event) {
 
 
     if (321<posY){
-        open("2SegundaPagina1.html")
+        open("2SegundaPagina1.html","_self")
     }
 
     else if(posY<180){
-        open("3SegundaPagina1.html")
+        open("3SegundaPagina1.html","_self")
     }
 
     else if(inicioguemes<posY<fincanvas){
-        open("1SegundaPagina1.html")
+        open("1SegundaPagina1.html","_self")
     }
 }
